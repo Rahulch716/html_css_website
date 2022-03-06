@@ -1,0 +1,10 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+div {
+    
+    height: 880px;
+    width: 100%;
+    background-color: #28293E;
+}
